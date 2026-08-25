@@ -9,7 +9,7 @@
 
 An interactive, full-stack workshop for learning Redis data structures and patterns through hands-on exercises. Covers everything from basic key-value operations to advanced patterns like distributed locks, pub/sub messaging, and rate limiting.
 
-![Redis Workshop UI](docs/screenshots/home.png)
+![Redis Workshop Demo](docs/screenshots/hero-demo.gif)
 
 ---
 
