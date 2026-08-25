@@ -9,8 +9,7 @@
 
 An interactive, full-stack workshop for learning Redis data structures and patterns through hands-on exercises. Covers everything from basic key-value operations to advanced patterns like distributed locks, pub/sub messaging, and rate limiting.
 
-<!-- Add a screenshot of the UI here -->
-<!-- ![Redis Workshop UI](docs/screenshots/home.png) -->
+![Redis Workshop UI](docs/screenshots/home.png)
 
 ---
 
@@ -194,23 +193,23 @@ Redis-Workshop/
 
 ## Screenshots
 
-<!-- Add screenshots to docs/screenshots/ and uncomment the lines below -->
-
-<!--
-### Home
-![Home](docs/screenshots/home.png)
-
-### Strings Module
-![Strings](docs/screenshots/strings.png)
-
-### Pub/Sub Module
-![Pub/Sub](docs/screenshots/pubsub.png)
-
 ### Cache Pattern
-![Cache](docs/screenshots/cache.png)
--->
+![Cache Pattern](docs/screenshots/cache-pattern.png)
 
-> Screenshots coming soon. To add your own, place images in `docs/screenshots/` and update this section.
+### Strings — Real-World Use Cases
+![Strings Use Cases](docs/screenshots/strings-use-cases.png)
+
+### Rate Limiting Algorithms
+![Rate Limiting](docs/screenshots/rate-limiting.png)
+
+### Sliding Window Timeline
+![Sliding Window](docs/screenshots/sliding-window.png)
+
+### Transactions — MULTI/EXEC & WATCH
+![Transactions](docs/screenshots/transactions.png)
+
+### Key Design — Namespace Rules
+![Key Design](docs/screenshots/key-design.png)
 
 ---
 
