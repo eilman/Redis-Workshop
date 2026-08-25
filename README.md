@@ -228,6 +228,12 @@ Redis-Workshop/
 
 ---
 
+## Author
+
+Created by **Ekin Ilman** — [GitHub](https://github.com/eilman)
+
+---
+
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project, provided that the original copyright notice and this permission notice are included.
