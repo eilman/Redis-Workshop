@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: redis-workshop
+  data:
+    redis:
+      host: ${REDIS_HOST:localhost}
+      port: ${REDIS_PORT:6379}
+  session:
+    store-type: redis
+    redis:
+      namespace: workshop:session
+
+server:
+  port: 8080
