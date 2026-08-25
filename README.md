@@ -193,23 +193,29 @@ Redis-Workshop/
 
 ## Screenshots
 
+### Features Overview
+![Features](docs/screenshots/features.png)
+
+### Workshop Modules
+![Modules](docs/screenshots/modules-grid.png)
+
+### Pub/Sub — Real-Time Messaging
+![Pub/Sub Demo](docs/screenshots/pubsub-demo.gif)
+
+### Transactions — Atomic Transfer
+![Transactions Demo](docs/screenshots/transactions-demo.gif)
+
+### Rate Limiting — Sliding Window
+![Rate Limiting Demo](docs/screenshots/rate-limiting-demo.gif)
+
 ### Cache Pattern
 ![Cache Pattern](docs/screenshots/cache-pattern.png)
 
-### Strings — Real-World Use Cases
-![Strings Use Cases](docs/screenshots/strings-use-cases.png)
-
-### Rate Limiting Algorithms
-![Rate Limiting](docs/screenshots/rate-limiting.png)
-
-### Sliding Window Timeline
-![Sliding Window](docs/screenshots/sliding-window.png)
-
-### Transactions — MULTI/EXEC & WATCH
-![Transactions](docs/screenshots/transactions.png)
-
 ### Key Design — Namespace Rules
 ![Key Design](docs/screenshots/key-design.png)
+
+### Strings — Real-World Use Cases
+![Strings Use Cases](docs/screenshots/strings-use-cases.png)
 
 ---
 
